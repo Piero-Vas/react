@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.14be02dc.css",
+    "main.js": "/react/static/js/main.93b863f8.js",
+    "static/js/787.0534c532.chunk.js": "/react/static/js/787.0534c532.chunk.js",
+    "static/media/Fondos80.jpg": "/react/static/media/Fondos80.3459269f9b81b8c44f17.jpg",
+    "index.html": "/react/index.html",
+    "main.14be02dc.css.map": "/react/static/css/main.14be02dc.css.map",
+    "main.93b863f8.js.map": "/react/static/js/main.93b863f8.js.map",
+    "787.0534c532.chunk.js.map": "/react/static/js/787.0534c532.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14be02dc.css",
+    "static/js/main.93b863f8.js"
+  ]
+}

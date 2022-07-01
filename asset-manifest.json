@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.14be02dc.css",
-    "main.js": "/react/static/js/main.93b863f8.js",
+    "main.css": "/react/static/css/main.aa777692.css",
+    "main.js": "/react/static/js/main.c1116691.js",
     "static/js/787.0534c532.chunk.js": "/react/static/js/787.0534c532.chunk.js",
-    "static/media/Fondos80.jpg": "/react/static/media/Fondos80.3459269f9b81b8c44f17.jpg",
+    "static/media/jpg": "/react/static/media/5c37508a4575802b6176d751511a41c1.f926cda60ed15c41225a.jpg",
+    "static/media/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg": "/react/static/media/HD-wallpaper-programmer-eat-sleep-code-repeat.48746a392cd7f79cee1f.jpg",
     "index.html": "/react/index.html",
-    "main.14be02dc.css.map": "/react/static/css/main.14be02dc.css.map",
-    "main.93b863f8.js.map": "/react/static/js/main.93b863f8.js.map",
+    "main.aa777692.css.map": "/react/static/css/main.aa777692.css.map",
+    "main.c1116691.js.map": "/react/static/js/main.c1116691.js.map",
     "787.0534c532.chunk.js.map": "/react/static/js/787.0534c532.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14be02dc.css",
-    "static/js/main.93b863f8.js"
+    "static/css/main.aa777692.css",
+    "static/js/main.c1116691.js"
   ]
 }
